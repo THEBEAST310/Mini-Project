@@ -6,7 +6,7 @@ import { Route } from "react-router-dom";
 import Button from "@material-ui/core/Button";
 import DemoSimple from "./swipeable";
 import { Redirect } from "react-router";
-import styles from "./styles.css";
+// import styles from "./styles.css";
 export default class SimpleBottomNavigation extends Component {
   // useStyles = makeStyles({
   //   root: {
