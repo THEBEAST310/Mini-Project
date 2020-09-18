@@ -40,7 +40,7 @@ export default class SimpleBottomNavigation extends Component {
     }
 
     return (
-      <div className={styles.btn}>
+      <div>
         <Button onClick={this.handleOnClick}>Swipeable Component</Button>
       </div>
     );
